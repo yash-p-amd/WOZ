@@ -11,4 +11,4 @@
 
 Here's what it looks like in action.
 
-![Alt Text](https://github.com/YASH12366/PayTrail/blob/master/PayTrailDemo.gif)
+![Alt Text](https://github.com/YASH12366/WOZ/blob/master/WOZDemo.gif)
