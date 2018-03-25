@@ -7,7 +7,10 @@
 
 * Wifi lobby for multiplayer without being connected to the internet.
 * Impressive map hurdles.
+* Supports up to 10 players.
+- [x] Adequate performance for mobiles.
 - [ ] The scoring mechanism will be added soon.
+- [ ] Play in teams.
 
 Here's what it looks like in action.
 
